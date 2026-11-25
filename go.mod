@@ -1,3 +1,3 @@
-module github.com/Hiroshis198/loki-patches-universal-build
+module github.com/hamer1955/loki-patches-universal-build
 
 go 1.23
