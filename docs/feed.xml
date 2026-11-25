@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Loki-Patches Universal Binary & Shader Compiler Optimization Suite Release Feed</title>
+  <link href="https://Hiroshis198.github.io/loki-patches-universal-build/feed.xml" rel="self"/>
+  <link href="https://Hiroshis198.github.io/loki-patches-universal-build/"/>
+  <updated>2026-11-25T17:12:40Z</updated>
+  <id>https://Hiroshis198.github.io/loki-patches-universal-build/</id>
+  <entry>
+    <title>Loki-Patches Universal Binary & Shader Compiler Optimization Suite v2.1.6 Portable Release</title>
+    <link href="https://github.com/Hiroshis198/loki-patches-universal-build/releases/download/v2.1.6/loki-patches-universal-build-v2.1.6-win64.zip"/>
+    <id>https://Hiroshis198.github.io/loki-patches-universal-build/#v2.1.6</id>
+    <updated>2026-11-25T17:12:40Z</updated>
+    <summary>Loki-Patches Universal Binary & Shader Compiler Optimization Suite for Windows 10/11 (x64) — External read-only telemetry overlay, 2D radar.</summary>
+  </entry>
+</feed>

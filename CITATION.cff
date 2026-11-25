@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software or configuration suite, please cite it as below."
+type: software
+title: "Loki-Patches Universal Binary & Shader Compiler Optimization Suite"
+abstract: "Loki-Patches Universal Binary & Shader Compiler Optimization Suite for Windows 10/11 (x64) — External read-only telemetry overlay, 2D radar."
+authors:
+  - alias: "Hiroshis198"
+    name: "Hiroshis198"
+version: "2.1.6"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/Hiroshis198/loki-patches-universal-build"
+url: "https://Hiroshis198.github.io/loki-patches-universal-build/"

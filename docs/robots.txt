@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Hiroshis198.github.io/loki-patches-universal-build/sitemap.xml

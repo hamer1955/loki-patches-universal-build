@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(loki_patches_universal_build LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(include)
+add_executable(loki_patches_universal_build src/loki_patches_universal_build_core.cpp)
